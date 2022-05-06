@@ -1,0 +1,19 @@
+{
+  "name": "tencentcloud-speech-sdk-nodejs",
+  "version": "1.0.0",
+  "dependencies": {
+    "http": "0.0.1-security",
+    "request": "^2.88.2"
+  },
+  "description": "腾讯云 录音文件识别极速版 NODEJS SDK",
+  "main": "asr/flashRecognizer.js",
+  "scripts": {
+    "test": "node flashRecognizer.j"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC"
+}
